@@ -1,0 +1,191 @@
+body{
+	/* border-style:groove; */
+	/* border-color:black; */
+	/* border-width:5px; */
+	background-color:grey;
+/* color:blue; */
+}
+#br{
+	border-style:dashed;
+	background: #FFE4E1;
+	border-color:red;
+	border-width:5px;
+	font-size:50px;
+}
+#tit{
+	
+	background-color:Violet;
+	text-align:center;
+	text-transform:uppercase;
+	text-shadow:2px 2px red;
+}
+#ex{
+	
+	font-size:40px;
+	text-align:center;
+	color:Darkgreen;
+}
+.a{
+	text-indent: 50px;
+	color:red;
+	font-family:Arial narrow;
+	font-size:25px;
+}
+#mail{
+	border-style:dotted;
+	background:Gainsboro;
+	border-color:green;
+	border-width:5px;
+	word-spacing:1300px;
+	
+}
+#cor{
+	text-align:center;
+	font-size:35px;
+	background-color:Lavender;
+	/* text-align:center; */
+	color:red;
+}
+.car{
+	font-family:Garamond, serif;
+	font-size:25px;
+	word-spacing: 180px;
+}
+.pan{
+	border-style:solid;
+	background:PowderBlue;
+	border-color:rgb(60, 179, 113);
+	border-width:5px;
+	
+	/* text-decoration:underline; */
+	/* text-align-last:justify; */
+	/* text-align:center; */
+	color:black;
+}
+.li1{
+	font-size:35px;
+	border-style:double;
+	background:Brown;
+	border-color:rgb(106, 90, 205);
+	border-width:5px;
+	/* text-align:center; */
+	
+}
+#eng{
+	text-align:right;
+	font-size:35px;
+	background-color:aqua;
+	/* text-align:center; */
+	color:#ffa500;
+}
+.b{
+	letter-spacing: 5px;
+	text-decoration: overline;
+	font-family:Helvetica;
+	font-size:25px;
+	color:yellow;
+}
+#art{
+	font-size:35px;
+	border-style:groove;
+	background:aquamarine;
+	border-color:#00FF00;
+	border-width:5px;
+}
+.c{
+	line-height: 1.8;
+	text-align:center;
+	font-size:35px;
+	background-color:khaki;
+	 color:#808000;
+}
+.d{
+	word-spacing: 10px;
+	text-decoration: line-through;
+	text-decoration-color: red;
+	text-decoration-style: wavy;
+	font-family:Verdana;
+	font-size:25px;
+	 color:black;
+}
+#dem{
+	font-size:35px;
+	border-style:ridge;
+	background:lightyellow;
+	border-color:DarkMagenta;
+	border-width:5px;
+}
+.e{
+	white-space: nowrap;
+	text-align:left;
+	font-size:35px;
+	 color: #DC143C;
+	 background-color:burlywood;
+}
+.f{
+	text-decoration: underline;
+	font-family:Calibri;
+	font-size:25px;
+	 color: #C71585;
+}
+.n{
+	text-decoration: overline underline;
+	font-family:system-ui;
+	font-size:25px;
+	 color: #808000;
+}
+#gum{
+	font-size:35px;
+	border-style:dashed dotted;
+	background:lightcyan;
+	border-radius: 8px;
+	border-color: Purple;
+	border-width:5px;
+}
+.g{
+	text-align:center;
+	font-size:35px;
+	background-color:cadetblue;
+	 color: #ADFF2F;
+}
+.h{
+	font-family:Franklin Gothic Medium;
+	font-size:25px;
+	 color: #D2691E;
+}
+.l{
+	text-align-last:left;
+	text-transform:capitalize;
+	font-family:Trebuchet MS;
+	font-size:25px;
+	 color: #191970;
+}
+.m{
+	text-align:right;
+	text-align-last:ridge;
+	text-transform:lowercase;
+	font-family:Segoe UI;
+	font-size:25px;
+	 color: #808080;
+}
+#vom{
+	font-size:35px;
+	border-style:dotted dashed solid double;
+	background:lightgreen;
+	border-radius: 12px;
+	border-color:Maroon;
+	border-width:5px;
+}
+.i{
+	font-size:35px;
+	font-family:Avanta Garde;
+	background-color:cornflowerblue;
+	 color: #191970;
+}
+.j{
+	text-align-last:center;
+	text-transform: uppercase;
+	font-family:'Trebuchet MS', sans-serif;
+	font-size:25px;
+	 color: #FF00FF;
+}
